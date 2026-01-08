@@ -1,0 +1,45 @@
+body {
+    background: linear-gradient(135deg, #fbc2eb, #a6c1ee);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Georgia', serif;
+}
+
+.carta {
+    background: #fff;
+    padding: 30px;
+    width: 400px;
+    max-height: 70vh;   /* altura máxima */
+    overflow-y: auto;  /* scroll vertical */
+    border-radius: 10px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+}
+
+h1 {
+    text-align: center;
+}
+
+#texto {
+    margin-top: 20px;
+    font-size: 18px;
+    line-height: 1.6;
+    white-space: pre-line;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background: #ff6f91;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background: #ff4f7a;
+}
