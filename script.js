@@ -68,7 +68,7 @@ function escribirTexto() {
     if (index < textoCompleto.length) {
         textoElemento.textContent += textoCompleto.charAt(index);
         index++;
-        setTimeout(escribirTexto, 120); // velocidad de escritura
+        setTimeout(escribirTexto, 100); // velocidad de escritura
     }
 }
 
