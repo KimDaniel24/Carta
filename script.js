@@ -4,6 +4,7 @@ y sean las 8 alla y lo leas, estuve pensando todo el dia en eso jaja,pero ya no 
 bloquee la hora, osea tengo una idea pero si falla y no te llega mi mensaje jajaja, asi que dije
 programo un correo a maria.coque@mail.udp.cl pero sabes que nunca programe uno tampoco y si no lo ves Zzz
 asi que confiare en que lo abriras en dos horas mas como corresponde, 
+
 "Holaa Majo,espero no estes leyendo esto antes del 25 de Enero, la verdad lo dudo osea 
 siento que si esperarias, pero quien sabe la curiosidad le gana a cualquiera
 bueno la verdad ni siquiera se si esto deberia tener una estrutura.
@@ -35,13 +36,15 @@ la boca, que verguenza ahora que lo pieso en fin pollito con papas
 3.La vigilia tambien, de mucha bendicioon,
 2.La marcha de jesus (vamos al mcdonalds esta super cerca as;ldkas) hermoso dia tambien
 1.Mi pelotazo en la cara, nunca lo olvidare (tu polera de fanta clave)
+    <img src="img/foto2.jpg" alt="Recuerdo 2">
 
 aunque unos de los mas bonito fue ir a la iglesia juntos , gracias por la invitacion <3. hay mas pero ahora que lo pienso el top ni siquiera es un top jaja ignora el orden,
 Espero tengas un hermoso y bendecido junto a tu familia y tus seres queridos. Te quiero mucho Majo, Espero
 Que sigamos caminando juntos en Cristo, animándonos unos a otros como dice su palabra,
 
 Estas vestidad de Fortaleza y dignidad y puedes reirte sin miedo al futuro poque tu confianza esta en el
-mi deseo para ti es que 
+Proverbios 31:25
+
 "El Señor te bendiga y te guarde;
 el Señor haga resplandecer su rostro sobre ti y tenga de ti misericordia;
 el Señor alce sobre ti su rostro y te dé paz."
