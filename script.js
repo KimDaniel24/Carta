@@ -4,7 +4,7 @@ y sean las 8 alla y lo leas, estuve pensando todo el dia en eso jaja,pero ya no 
 bloquee la hora, osea tengo una idea pero si falla y no te llega mi mensaje jajaja, asi que dije
 programo un correo a maria.coque@mail.udp.cl pero sabes que nunca programe uno tampoco y si no lo ves Zzz
 asi que confiare en que lo abriras en dos horas mas como corresponde, 
-
+ah si presiona el boton con audifonos por que suena musica jajaja es mi mix a;sldk se hizo lo que se pudo
 "Holaa Majo,espero no estes leyendo esto antes del 25 de Enero, la verdad lo dudo osea 
 siento que si esperarias, pero quien sabe la curiosidad le gana a cualquiera
 bueno la verdad ni siquiera se si esto deberia tener una estrutura.
