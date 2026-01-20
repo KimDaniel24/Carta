@@ -29,14 +29,13 @@ se me va a ir la motivacion jaj, pero a ver, sabes que me acorde que ese dia ten
 8.cuando ibamos tirando burbujas (5mil el jugetito o 4 ya no me acuerdo jsjs)
 7.sabes que cuando se unio la se;ora a cantar ese dia con su Hija fue muy hermoso la verdad
 6.bebes abortados asldk; que bonita pelicula (Mujer obligada a vivir en iran por su esposo sufre) adasdk no me esperaba que tu mami me pregunta que tal la pelicula
-5.el dia de la piscina , nooo no me despedi, top 10 peores momentos jaja, pero ese dia en el corazon.
+5.los dias en discord.
 4.sabes que me acorde jaja que cuando fuimos al wendys, te tire el vaso de pepsi en la boca osea no tirar jaja si no te di de beber como dice la biblia porque
 tuve sed y me diste de beber asi hice, as;ldk no pero fue porque se le habia ido el gas creo y te dije a ver prueba y tenias la bandeja en la mano y te puse el vaso en
 la boca, que verguenza ahora que lo pieso en fin pollito con papas
 3.La vigilia tambien, de mucha bendicioon,
 2.La marcha de jesus (vamos al mcdonalds esta super cerca as;ldkas) hermoso dia tambien
 1.Mi pelotazo en la cara, nunca lo olvidare (tu polera de fanta clave)
-    <img src="img/foto2.jpg" alt="Recuerdo 2">
 
 aunque unos de los mas bonito fue ir a la iglesia juntos , gracias por la invitacion <3. hay mas pero ahora que lo pienso el top ni siquiera es un top jaja ignora el orden,
 Espero tengas un hermoso y bendecido junto a tu familia y tus seres queridos. Te quiero mucho Majo, Espero
